@@ -1,0 +1,1 @@
+An implementation of the Minesweeper game, in Java and using the Model-View-Controller Pattern. This was my first real GUI program.
